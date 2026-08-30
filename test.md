@@ -1,6 +1,12 @@
-******Halløj****** der **test***12221*
+**Halløj** der **test***12221*
 
 This is *italic*
 
-# headline
+# *headline*
+
 Dsfsd
+
+- test
+- test 2
+- test 3
+- 
