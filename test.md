@@ -2,7 +2,7 @@
 
 This is *italic*
 
-# *headline*\* \*e
+# *headline*
 
 Dsfsd
 
